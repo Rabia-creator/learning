@@ -5,3 +5,4 @@ changes from online editor
 this is updating first.txt in learning for merge commit
 
 this i sstash practice
+this is gir reset --hard commit hash practice and git reset --keep commit hash
