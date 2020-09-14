@@ -1,1 +1,2 @@
 this is 4th file
+this is practicing git reset -- hard commit hash and git reset -- keep commit hash 
